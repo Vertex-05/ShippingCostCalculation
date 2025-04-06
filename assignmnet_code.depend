@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732798382 source:d:\project\codeblocks\c++\assignmnet_code\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<typeinfo>
+
