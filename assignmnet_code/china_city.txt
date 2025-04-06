@@ -1,0 +1,10 @@
+beijing
+shanghai
+guangzhou
+chengdu
+shenzhen
+hangzhou
+chongqing
+xi'an
+wuhan
+tianjin
